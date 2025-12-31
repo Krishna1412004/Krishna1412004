@@ -27,9 +27,6 @@ I enjoy solving real-world problems using clean logic, scalable code, and data-d
 - **NLP Analysis on Comedian Transcripts**  
   Sentiment analysis, topic modeling, text generation, and EDA on stand-up comedy transcripts.
 
-- **Advertising Sales Prediction**  
-  Regression-based ML model to predict sales using marketing data.
-
 - **AI-based Railway Track Monitoring System**  
   Drone-based computer vision system to detect railway track defects.
 
